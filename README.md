@@ -1,8 +1,8 @@
-<p><b>👋 Hi, I’m @RaulRevuelta</b></p>
-<p><b>🌱 I’m currently learning ...</b></p>
+<p><b>👋 Hi, I’m Raúl</b></p>
+<p><b>🌱 I’m currently learning:</b></p>
 <ul><li>Python</li>
 <li>JavaScript</li></ul>
-<p><b>📫 How to reach me ...</b></p>
+<p><b>📫 How to reach me:</b></p>
 <ul><li>Website: https://raulrevuelta.com/</li>
 <li>LinkedIn: https://www.linkedin.com/in/raulrevuelta/</li>
 <li>Twitter: https://twitter.com/RaulRevu</li></ul>
